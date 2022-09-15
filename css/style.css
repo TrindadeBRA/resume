@@ -1310,7 +1310,7 @@ form .check-block label{
 
 .right-content .welcome{
 	position: relative;
-	max-width: 520px;
+	/* max-width: 520px; */
 	margin-bottom: 40px;
 }
 
