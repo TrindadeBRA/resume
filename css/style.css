@@ -3077,6 +3077,10 @@ form .check-block label{
 	margin-bottom: 5px;
 }
 
+.resume-content .edu-block ul li {
+	list-style: inside;
+}
+
 .resume-content .interests{
 	position: relative;
 	border-top: 1px solid #eeedf2;
