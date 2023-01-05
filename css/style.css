@@ -3242,3 +3242,28 @@ img.certificados {
     margin: 10px 0 20px 0;
     padding: 0;
 }
+
+.main-title {
+	left: 10px!important;
+	right: 360px;
+	padding-right: 0!important;
+}
+.main-title > .txt {
+	display: flex;
+	height: 100%;
+	position: absolute !important;
+	align-items: center;
+}
+.main-title > .icon {
+	top: 3px!important;
+}
+
+@media only screen and (max-width: 769px) {
+	.main-title {
+		right: 10px!important;
+	}
+	.main-title > .txt {
+		font-size: 14px!important;
+		line-height: 16px!important;
+	}
+}
